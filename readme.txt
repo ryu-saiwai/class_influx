@@ -1,4 +1,4 @@
-=== Inflex ===
+=== Influx ===
 Contributors: ryu saiwai
 Requires at least: 3.0
 Stable tag: 1.0
